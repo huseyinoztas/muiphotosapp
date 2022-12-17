@@ -1,6 +1,6 @@
 You can click this link a reach this project
 
-https://robof-riends.netlify.app/
+https://mui-photos.netlify.app/
 
 
 ### `npm start`
